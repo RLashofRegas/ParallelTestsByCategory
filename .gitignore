@@ -1,0 +1,5 @@
+TestDeploy/**
+TestResults/**
+bin/**
+obj/**
+.vscode/**
